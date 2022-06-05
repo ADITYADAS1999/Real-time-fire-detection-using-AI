@@ -25,6 +25,7 @@ We will use Adam as an optimizer with a learning rate of 0.0001. After training 
 <img src=https://user-images.githubusercontent.com/58718316/171979038-e8dd45ce-fc37-4a6b-ac6c-4410109e5698.PNG>
 
 
+<img src="https://user-images.githubusercontent.com/58718316/172055748-c95d5693-39ff-48b2-83de-d92a05e03eac.jpg">
 
 
 
